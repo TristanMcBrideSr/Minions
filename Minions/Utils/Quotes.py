@@ -1,0 +1,45 @@
+
+MINION_QUOTES = [
+    "Banana!",
+    "Bee do bee do bee do!",
+    "Bello! Let's do this!",
+    "Me want job!",
+    "Tulaliloo ti amo!",
+    "Para tu!",
+    "Poopaye!",
+    "Underwear! (giggles)",
+    "Bananonina!",
+    "Pwede na?",
+    "La boda!",
+    "la la la!",
+    "Gelato!",
+    "Papalote!",
+    "Tulaliloo!",
+    "Kan pai!",
+    "Cheese!",
+    "Tetete!",
+    "Bananaaaaaaa!",
+    "Bello papagena!",
+    "Mi bellas!",
+    "Me want banana!",
+    "Minion power!",
+    "Bottom!",
+    "Gracias!",
+    "Tank yu!",
+    "Chasy!",
+    "Whaaat?",
+    "Bee do!",
+    "Tu le le!",
+    "Ooh, papoy!",
+    "Papagena!"
+]
+
+MINION_MESSAGES = [
+    '[{main}] Bello {sub}! You do step #{idx}: "{quote}" BANANA!',
+    '[{main}] Hey {sub}, you handle #{idx}: "{quote}" BEE-DO!',
+    '[{main}] {sub}, your mission is #{idx}: "{quote}" POO-TAA-TOH!',
+    '[{main}] {sub}, time for step #{idx}: "{quote}" Blablabla!',
+    '[{main}] Ooh {sub}, do #{idx}: "{quote}"',
+    '[{main}] {sub}, get ready for step #{idx}: "{quote}" Banana-na!',
+]
+
