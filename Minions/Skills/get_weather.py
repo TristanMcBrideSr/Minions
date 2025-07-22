@@ -2,7 +2,7 @@
 import json
 import requests
 
-from SkillsManager import ArgumentParser
+from SkillLink import ArgumentParser
 
 argParser = ArgumentParser()
 

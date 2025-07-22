@@ -5,7 +5,7 @@ import os
 import threading
 import inspect
 
-from SkillsManager import ArgumentParser
+from SkillLink import ArgumentParser
 
 logger = logging.getLogger(__name__)
 

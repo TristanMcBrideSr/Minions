@@ -1,6 +1,6 @@
 
 from datetime import datetime
-from SkillsManager import ArgumentParser
+from SkillLink import ArgumentParser
 
 argParser = ArgumentParser()
 
